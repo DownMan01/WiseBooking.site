@@ -6,8 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> LOCAL BOOKINGS - HOME </title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <?php require('inc/links.php'); ?>
     <style>
         .availability-form{
@@ -22,14 +20,13 @@
             }
         }
     </style>
-
 </head>
 <body class="bg- light">
 
     <?php require('inc/header.php'); ?>
 
     <!-- Carousel -->
-    <div class="container-fluid px-lg-2 mt-2">
+    <div class="container-fluid px-lg-0 mt-0">
         <div class="swiper swiper-container">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
@@ -97,7 +94,7 @@
                 <div class="card border-0 shadow" style="max-width: 350px; margin: auto;">
                     <img src="images/rooms/1.png" class="card-img-top">
                     <div class="card-body">
-                        <h5>Large Room</h5>
+                        <h5>Deluxe Room</h5>
                         <h6 class="mb-4">Location</h6>
                         <h6 class="mb-4">₱1500 per night</h6>
                         <div class="features mb-4">
@@ -388,7 +385,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-md-8 p-4 mb-lg-0 mb-3 bg-white rounded">
-            <iframe class="w-100 rounded" height="320px" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1974.3067074900548!2d123.00298045299529!3d8.24157102265836!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x325386b7ae03394d%3A0xb0f0f4b93ac0925a!2sDapaon%2C%20Sindangan%2C%20Zamboanga%20del%20Norte!5e0!3m2!1sen!2sph!4v1724553686874!5m2!1sen!2sph"  loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe class="w-100 rounded" height="320px" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d252704.6002996007!2d122.8597415621001!3d8.251986737604408!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3253812d230099a5%3A0x54d5f07f18e006e6!2sSindangan%2C%20Zamboanga%20del%20Norte!5e0!3m2!1sen!2sph!4v1724845053412!5m2!1sen!2sph" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
             <div class="col-lg-4 col-md-4">
                 <div class="bg-white p-4 rounded mb-4">

@@ -80,7 +80,7 @@
         <div class="swiper mySwiper">
             <div class="swiper-wrapper mb-5">
                 <div class="swiper-slide bg-white text-center overflow-hidden rounded">
-                    <img src="images/about/royland.jpg" class="w-100">
+                    <img src="images/about/nopro.jfif" class="w-100">
                     <h5 class="mt-2">Royland Mandate</h5>
                 </div>
                 <div class="swiper-slide bg-white text-center overflow-hidden rounded">
@@ -88,25 +88,26 @@
                     <h5 class="mt-2">Royland Mandate</h5>
                 </div>
                 <div class="swiper-slide bg-white text-center overflow-hidden rounded">
-                    <img src="images/about/royland.jpg" class="w-100">
+                    <img src="images/about/nopro.jfif" class="w-100">
                     <h5 class="mt-2">Royland Mandate</h5>
                 </div>
                 <div class="swiper-slide bg-white text-center overflow-hidden rounded">
-                    <img src="images/about/royland.jpg" class="w-100">
+                    <img src="images/about/nopro.jfif" class="w-100">
                     <h5 class="mt-2">Royland Mandate</h5>
                 </div>
                 <div class="swiper-slide bg-white text-center overflow-hidden rounded">
-                    <img src="images/about/royland.jpg" class="w-100">
+                    <img src="images/about/nopro.jfif" class="w-100">
                     <h5 class="mt-2">Royland Mandate</h5>
                 </div>
                 <div class="swiper-slide bg-white text-center overflow-hidden rounded">
-                    <img src="images/about/royland.jpg" class="w-100">
+                    <img src="images/about/nopro.jfif" class="w-100">
                     <h5 class="mt-2">Royland Mandate</h5>
                 </div>
                 <div class="swiper-slide bg-white text-center overflow-hidden rounded">
-                    <img src="images/about/royland.jpg" class="w-100">
+                    <img src="images/about/nopro.jfif" class="w-100">
                     <h5 class="mt-2">Royland Mandate</h5>
                 </div>
+            
             </div>
             <div class="swiper-pagination"></div>
         </div>
